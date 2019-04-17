@@ -1,6 +1,6 @@
 Git is a version control system.
 Git is free software.
 ivscode
-iotdcm
+pegasus,iotdcm
 index stage
 
