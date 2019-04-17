@@ -1,5 +1,10 @@
 WJT,LISENCE
 gcc
 git教程;vscode
-<<<<<<< HEAD
 This is master+master branch!
+
+/*
+git init ##新建本机仓库
+git remote add origin <...> #将本机仓库和远程仓库关联;
+*/
+
