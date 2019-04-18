@@ -1,5 +1,20 @@
 WJT,LISENCE
 gcc
 git教程;vscode
-<<<<<<< HEAD
-This is master+master branch!
+This is dev_A branch!
+devA--github.com
+{head,当前分支,时间线,commitID};dev_A branch;
+
+HEAD指向的就是当前版本;
+git reset --hard <commit_id>
+
+git log,查看commit历史;
+git reflog,查看命令历史;
+删除远程分支:
+git push origin :<branch_name>
+
+
+
+
+
+
