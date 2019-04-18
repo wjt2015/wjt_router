@@ -1,7 +1,6 @@
 WJT,LISENCE
 gcc
 git教程;vscode
-<<<<<<< HEAD
 This is dev_A branch!
 devA--github.com
 {head,当前分支,时间线,commitID};dev_A branch;
@@ -11,6 +10,7 @@ git reset --hard <commit_id>
 
 git log,查看commit历史;
 git reflog,查看命令历史;
+解决git冲突就是在git失败后手动编辑为我们希望的内容,再提交;
 删除远程分支:
 git push origin :<branch_name>
 
